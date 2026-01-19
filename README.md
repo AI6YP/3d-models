@@ -1,23 +1,9 @@
 # 3d-models
 
+## wheel-v0.1.0
+
 Wheel replacement for Horizon EX-59 elliptical trainer
 
-## 3D Model Preview
-
-### Interactive Replicad Model
-[**Open in Replicad Studio**](https://studio.replicad.xyz/share?code=https://raw.githubusercontent.com/AI6YP/3d-models/trunk/wheel-v0.1.0.js)
-
-[Open in Replicad](https://studio.replicad.xyz/share/url/?code=https%3A%2F%2Fraw.githubusercontent.com%2FAI6YP%2F3d-models%2Ftrunk%2Fwheel-v0.1.0.js&ortho-camera=true&params=true#url=https%253A%252F%252Fraw.githubusercontent.com%252FAI6YP%252F3d-models%252Ftrunk%252Fwheel-v0.1.0.js)
-
-### Download STL
-- [**wheel-v0.1.0.stl**](wheel-v0.1.0.stl) - Opens in GitHub's built-in 3D viewer
-- [ViewSTL.com](https://www.viewstl.com/?url=https://raw.githubusercontent.com/AI6YP/3d-models/trunk/wheel-v0.1.0.stl)
-
-## Model Specifications
-
-- **Diameter**: 73.5 mm
-- **Height**: 37 mm
-- **Axle Hole**: 16.5 mm diameter
-- **Washer Cavity**: 32 mm diameter × 5 mm depth
-- **Features**: Chamfered edges for smooth finish
-
+* [Open in Replicad Studio](https://studio.replicad.xyz/share/code/?disable-auto-position=true&ortho-camera=true&params=true#code=UEsDBAoAAAAIAMwEM1x5HRQTIQEAACUCAAAHAAAAY29kZS5qc42Ry2rDMBBF9%252F6KgQZsg6vEDm4gIV2kWWRZ6LJ0McgTbCo%252FkOQ8CPn3jmXnQciiK907ozlcjfzWEBirC2n9hefJujIWTpBp3EdQ4i99HFVRZaR7t0JDq%252FowmIv4anLSBGdYgqZGFRKzKyujLbbKfqLG0vCFkwewmcN0FrFYz2E2FWkn8aCIbfzW2z0aZnJhmtwsz6Xe%252BYousaiYGHC2UQjLd8dWZMHk2JDHxgm%252Bcv%252BQYCTWMIaEh8QmFDLHcsvVJITxuEfucyJ1P%252B5OIVsbPICGlBfckDJ0qN6AxF1hj%252F%252BiuRXcojlKV4O8VvSEMCSPnyTXZFtdwTdLgFOFJc3Bd93X3UTEYuJHPSUCWatac%252FclTVOu1g1KDsw%252Fcebhn0W37z9QSwECFAAKAAAACADMBDNceR0UEyEBAAAlAgAABwAAAAAAAAAAAAAAAAAAAAAAY29kZS5qc1BLBQYAAAAAAQABADUAAABGAQAAAAA%253D)
+* [wheel-v0.1.0.stl GitHub preview](wheel-v0.1.0.stl)
+* [wheel-v0.1.0.stl in ViewSTL.com](https://www.viewstl.com/?url=https://raw.githubusercontent.com/AI6YP/3d-models/trunk/wheel-v0.1.0.stl)
